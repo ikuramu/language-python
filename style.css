@@ -1,0 +1,77 @@
+h2
+{
+	color: #3252d1;
+	font-family:Sans-serif;
+   text-align: left;
+   text-shadow: 5px 4px 3px #545963;
+   
+
+}
+.exception2
+{
+	text-align:center;
+	color:#f2d974;
+    font-family:cursive;
+	font-size:50px;
+   text-shadow: 5px 4px 3px #545963;
+   
+   
+   
+/*  
+   horizontal:(px)
+   vertical:(px)
+   blur:(px)
+   color:(name)
+*/   
+}    
+p
+{
+   color:Black;
+   font-family:MV Boli;
+   font-size:15px;
+   text-align:justify;
+}
+em  
+   {
+	color:#a193cf;
+	Text-decoration:underline #a193cf;;
+	font-weight:bold;
+	
+   }
+body
+{
+	background-color: #b6cfcf;
+}
+ a
+ {
+	 Color:#297eff;
+ }
+ img
+ {
+	 float:left;
+	 margin:5px;
+	 
+ }
+ .exception
+ {
+	 float:right;
+ }
+ table
+ {
+	 border-collapse:collapse;
+	 font-size:30px;
+ }
+ td
+ {
+
+     color:black;
+	  border: 1px solid white;
+ }
+ h1{
+        animation: myColorAnimation;
+        animation-duration: 5s;
+        animation-iteration-count: infinitive;
+   }
+   @keyframes myColorAnimation{
+      50%{background-color:blue ;}
+      50%{background-color:black ;}
